@@ -1,13 +1,13 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f2f2f2;
-  color: #333333;
+  background-color: #000000;
+  color: #aaa0a0;
   text-align: center;
   padding: 50px;
 }
 
 .tarjeta {
-  background-color: white;
+  background-color: rgb(233, 229, 229);
   max-width: 400px;
   margin: auto;
   padding: 30px;
